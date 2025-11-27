@@ -5,3 +5,7 @@ void main () {
   var totalCapital = (capital * razon) + capital;
   print("El total del capital despues de un mes es: $totalCapital");
 }
+
+void sumar (int numero1) {
+  
+}
